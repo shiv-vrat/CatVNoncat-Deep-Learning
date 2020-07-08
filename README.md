@@ -1,6 +1,6 @@
 # CatVNoncat-Deep-Learning
 ## Introduction
-I have created this code using <b>Andrews Ng's DeepLearning.ai</b> Course on Coursera.
+I have created this code using <b>Andrews Ng's DeepLearning.ai</b> course on Coursera.
 It Uses Python Code to Build a Basic Deep Learning Network from Scratch.
 
 
